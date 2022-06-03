@@ -1,0 +1,18 @@
+show
+add
+Home
+33
+60
+3
+1
+1000
+FULL_TIME_EDUCATION
+Richard
+05.12.2014
+RED
+VATICAN
+33
+60
+Saint-Petersburg
+print_descending
+execute_script Script.txt
